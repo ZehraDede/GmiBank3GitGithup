@@ -1,5 +1,6 @@
 package gmibank3.runners;
 
-public class Runner {
+public class Runner{
+
 
 }
